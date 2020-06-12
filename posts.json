@@ -2,7 +2,58 @@
 {
 "allbook":
 [
-    {
+{
+"title" : "My Kingdom",
+"status" : "အပိုင်း (၇)",
+"cover" : "https://1.bp.blogspot.com/-qDyglVFBvaI/XuNIySo6GYI/AAAAAAAAQVw/qnVCVZeml4cNdKEimcsGjcwnZxCRSQZTQCLcBGAsYHQ/s320/001cover.jpg",
+"encoder" : "XC2",
+"tag" : "series,013",
+"price" : "0",
+
+"post" : "
+<img src=\"https://1.bp.blogspot.com/-RpiNwTnad4M/XuNIybzjmrI/AAAAAAAAQV0/L6Lr0i9Nv0sHLQY0-xv-hUrI-IG68h2WgCLcBGAsYHQ/s5000/IMG_20200611_194601.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-xbfT3xaBRyo/XuNIytuoRyI/AAAAAAAAQV4/OCLi0r1j9ZAtzD-1IEL7POUI8B8jzxD0gCLcBGAsYHQ/s5000/IMG_20200611_194609.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-DsyLW8ScC4g/XuNIzaAabPI/AAAAAAAAQV8/mjRuaXfMte0a19lC3R-nrp0imtFVThymgCLcBGAsYHQ/s5000/IMG_20200611_194618-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-XuAOygWrkrE/XuNIzxBWxKI/AAAAAAAAQWA/y7LbQ9CCpnQ3dHuXirG2mttv3Xq4UYHGwCLcBGAsYHQ/s5000/IMG_20200611_194630-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-_hHlpMhwrCk/XuNI0lLif0I/AAAAAAAAQWE/XTzFrNXPPqIInD-efDeKy-Py4QeFd7UUACLcBGAsYHQ/s5000/IMG_20200611_194656-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-mq7NsmTUMN0/XuNI0g0GluI/AAAAAAAAQWI/kwui_jeYxcYUcuGpeW75pUDzwyzY-4_JQCLcBGAsYHQ/s5000/IMG_20200611_194702-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-Np5FLIe8NQM/XuNI07TChnI/AAAAAAAAQWM/sC7oxgY3Mb4SA-_iOdMY2JMr6S9ojGDHgCLcBGAsYHQ/s5000/IMG_20200611_194726.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-FXgtdwvvuQ0/XuNI1SF2bLI/AAAAAAAAQWQ/HMGpdya6-oAw5yG_sWYNIjei8WBYPI6VgCLcBGAsYHQ/s5000/IMG_20200611_194731-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-cvxVRdwpJyM/XuNI12rZvcI/AAAAAAAAQWU/LKHET-kT_Y8KEOY-2cvIm8l2063v8q15wCLcBGAsYHQ/s5000/IMG_20200611_194743-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-eHqqJK1VyY4/XuNI2PV4wBI/AAAAAAAAQWY/d_FUWs_wGkYj4wX09uooP3N1ezZ_T2qwwCLcBGAsYHQ/s5000/IMG_20200611_194806-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-KH90HwVFfys/XuNI2dsvwDI/AAAAAAAAQWc/PWnrMMe0IcwGwoB9MX8QSm7hNEjZU4z2gCLcBGAsYHQ/s5000/IMG_20200611_194812.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-Mk5GKDuKgZ0/XuNI2gYKH7I/AAAAAAAAQWg/GQMw72hnKrMmfKWogVaUdwxBnYsf4NlPQCLcBGAsYHQ/s5000/IMG_20200611_194821.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-yYwoKn_Ntvc/XuNI28JzmvI/AAAAAAAAQWk/OZKC7SNWlUo51ll_kGPkhLLui9lTf_vvQCLcBGAsYHQ/s5000/IMG_20200611_194827.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-EwNHNLOWIVE/XuNI3nARv3I/AAAAAAAAQWo/OIgqAJg9UGgiHQWz9RJyYR2dHgkav7QZwCLcBGAsYHQ/s5000/IMG_20200611_194837-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-xgzUbwDf1X8/XuNI43NoTII/AAAAAAAAQW0/PYX59HanoSAeomrOcfVZHINZzsVil44dQCLcBGAsYHQ/s5000/IMG_20200611_194842.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-HdZy4OEw1JI/XuNI42iqT9I/AAAAAAAAQWs/rrcikiEXOmsn0eOgwsY3rBCCRmLrIm_yQCLcBGAsYHQ/s5000/IMG_20200611_194853-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-kIdQXw-KiHw/XuNI45RYo8I/AAAAAAAAQWw/-pRuoThLD2kj1u1xk6JuL-aoy0j0L4U3gCLcBGAsYHQ/s5000/IMG_20200611_194901-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-Z4gjsB1fit8/XuNI5igKCgI/AAAAAAAAQW4/lnistqc8nqI2-y9M8qUFt5kwkJn0_u59wCLcBGAsYHQ/s5000/IMG_20200611_194907-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-F046iPciZ_U/XuNI6WFGesI/AAAAAAAAQW8/fkyUFeLXoNQ-zIFKasXcrQXSK-jBdK3qQCLcBGAsYHQ/s5000/IMG_20200611_194918-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-kBN9a6U3Dfs/XuNI69wUWuI/AAAAAAAAQXA/jBPRG7qdtesR2ufQR9u440s6aWxbiF45QCLcBGAsYHQ/s5000/IMG_20200611_194927-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-GIGD_kD4VL8/XuNI7eJG49I/AAAAAAAAQXE/4NsDgl1KSAY0cZOUWBNK6lgwei7Uw_ezACLcBGAsYHQ/s5000/IMG_20200611_194933-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-al8vrtLLwis/XuNI7rltM9I/AAAAAAAAQXI/wCecu0lza08rqYWaChkAXIunQ33RfPvhQCLcBGAsYHQ/s5000/IMG_20200611_194943-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-RcVI0273OoY/XuNI79eQbFI/AAAAAAAAQXM/IWt72S8D-Iodmk3Csp1qkR6MpxJroISMACLcBGAsYHQ/s5000/IMG_20200611_194950-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-tF9_JVueImI/XuNI8Yh_UZI/AAAAAAAAQXQ/mlemU8rzEvUMDFxSOdv5WkxdyLKx2lhcgCLcBGAsYHQ/s5000/IMG_20200611_194959-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-0FoGGyaNZJ4/XuNI8iOt_YI/AAAAAAAAQXU/sauwZVweQhkSXPlP3C2p4fx0E1mFgu1UwCLcBGAsYHQ/s5000/IMG_20200611_195003.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-SSAu7fms2TQ/XuNI8yzamxI/AAAAAAAAQXY/iPKCOwXTV3InZDAc2VAB8cDogrfUTjtygCLcBGAsYHQ/s5000/IMG_20200611_195017-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-FW21FyxGyqg/XuNI9AEPx4I/AAAAAAAAQXc/cOWKkHJdOqowcW17PMIyhEZR5xuDEs6nACLcBGAsYHQ/s5000/IMG_20200611_195022.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-rNInc9uDgzg/XuNI9cVuYII/AAAAAAAAQXg/49cH81tlcpgbqnvJFbjWTY-corH3Sr4YgCLcBGAsYHQ/s5000/IMG_20200611_195035-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-ARC7S-9tqbQ/XuNI-D-pREI/AAAAAAAAQXk/EjVjnZltDdItOiIk5aQv-B2T-uk8KuOrQCLcBGAsYHQ/s5000/IMG_20200611_195041.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-rD_7KRZ01zo/XuNI-b2vhuI/AAAAAAAAQXo/JJ-mjScBQ7YOb04dirD4uxZtiljtaw4WQCLcBGAsYHQ/s5000/IMG_20200611_195103.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-oVOOT2fCa9Y/XuNI-uS-IbI/AAAAAAAAQXs/2SKU9eRBfy8dayknnJubgPyzVqLSPZQbgCLcBGAsYHQ/s5000/IMG_20200611_195112-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-XNEOk1RHSNc/XuNI_Pw9juI/AAAAAAAAQXw/5bLVo9EbtuooyhrHELd6IzYU2dAoSyCEQCLcBGAsYHQ/s5000/IMG_20200611_195122-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-X-VXcI1-_wI/XuNI_3E3aUI/AAAAAAAAQX0/ILf2iiZ7OyQQG1I5jy7l9U5THC_zhEc8gCLcBGAsYHQ/s5000/IMG_20200611_195131.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-cBqtm__0_0g/XuNI_0F2XqI/AAAAAAAAQX4/FsDl4TU9hiUc4rSZa5ekmLo7PG8mINNqwCLcBGAsYHQ/s5000/IMG_20200611_195136-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-2l3BosA7mnM/XuNJA2OkzuI/AAAAAAAAQX8/6qcbtn-wbjIfLi9cpmi7RKxV6_t7dgYWwCLcBGAsYHQ/s5000/IMG_20200611_195144.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-Qj5pErklfNc/XuNJBGKBvOI/AAAAAAAAQYA/hHV9-Bm0b0IpMrjiexn8KBZNxa0NXhwbgCLcBGAsYHQ/s5000/IMG_20200611_195149.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-3EqmIyRIzMI/XuNJBCvwCeI/AAAAAAAAQYE/NuNPnhUDoIcOVLqjE5Rbs80KdqSGrdKHACLcBGAsYHQ/s5000/IMG_20200611_195159.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-Gd--7xMPBaY/XuNJBmeYhlI/AAAAAAAAQYI/aCEevNpk_kwl_NmJptZbWhqnqREKISSkQCLcBGAsYHQ/s5000/IMG_20200611_195205-picsay.jpg\" width=\"100%\" />
+<img src=\"https://1.bp.blogspot.com/-61krpLasvUc/XuNJCS3bYdI/AAAAAAAAQYM/CJc92QE-e5UPtYqox1M_KAKeqJAvmJigQCLcBGAsYHQ/s5000/IMG_20200611_195214.jpg\" width=\"100%\" />
+"
+}
+,
+{
 "title" : "My Kingdom",
 "status" : "အပိုင်း (၆)",
 "cover" : "https://1.bp.blogspot.com/-b2f-eZ0ONw4/Xttp2yJvmkI/AAAAAAAAOTY/iMWoY5jMUMcCD1eKpsHZhIMJNfWe9rhawCLcBGAsYHQ/s320/001cover.jpg",
@@ -44,10 +95,10 @@
 <img src=\"https://1.bp.blogspot.com/-ax1M5wVrCtg/XttqCXPcATI/AAAAAAAAOVU/sO4MdyaFiWQhn8vMJvfkeBBb5WTioTIWgCLcBGAsYHQ/s5000/IMG_20200604_145047-picsay.jpg  \" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-J0aI3XIoD5I/XttqC6nOpuI/AAAAAAAAOVY/ahV2RsRP7yIUkoJyRofejbHCsFiPt2CKwCLcBGAsYHQ/s5000/IMG_20200604_145053.jpg  \" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-W8m3uOZkIck/XttqDcCqbNI/AAAAAAAAOVc/OMtiV0ItxwAsnQ6emVqnXON7Amp4ztOrgCLcBGAsYHQ/s5000/IMG_20200604_145058.jpg  \" width=\"100%\" />
-      "
-    }
-  ,
-  {
+"
+}
+,
+{
 "title" : "My Kingdom",
 "status" : "အပိုင်း (၅)",
 "cover" : "https://1.bp.blogspot.com/-r-O37f5ShQU/XtY-yFaw3oI/AAAAAAAANnI/m82iUBUAEWYUwuWG6THJpS7IYaedfUE2QCLcBGAsYHQ/s320/001cover.jpg",
@@ -84,10 +135,10 @@
 <img src=\"https://1.bp.blogspot.com/-pzEEZJucFN8/XtY-7dHa8II/AAAAAAAANo0/aUupHWRKNIgn3ZDBeMYLLWAfcZR_Lyy2wCLcBGAsYHQ/s5000/IMG_20200602_022855-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-BBaqU6u3YBo/XtY-73MJqyI/AAAAAAAANo4/KQjoWLglYD4CiQwcdjcZFz4f5y6qV7v7gCLcBGAsYHQ/s5000/IMG_20200602_022904-picsay.jpg\" width=\"100%\" />
 <img src=\"https://1.bp.blogspot.com/-w_lTKdGkpCc/XtY-8XJ3uaI/AAAAAAAANo8/A1CWDVUz1wI-gIFSOOF3LgBKiaOV-1cswCLcBGAsYHQ/s5000/IMG_20200602_022910.jpg\" width=\"100%\" />
-    "
-  }
-  ,
-  {
+"
+}
+,
+{
 "title" : "My Kingdom",
 "status" : "အပိုင်း (၄)",
 "cover" : "https://1.bp.blogspot.com/-4AIIelD1KD0/XtTQtTmFjJI/AAAAAAAANVM/JklX2eTrg0cy9IgxcEpglRD6Q7Ka18iwgCLcBGAsYHQ/s220/001cover.jpg",
