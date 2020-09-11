@@ -2,17 +2,48 @@
 {
 "allbook":
 [
-    
-     {
+ {
 "title" : "My Kingdom",
-"status" : "အပိုငါး (၂၅)",
+"status" : "အပိုင်း (၂၆)",
+"cover" : "https://1.bp.blogspot.com/-cusOx2cHVnE/X1uBBGo9EHI/AAAAAAAAg0I/SY1V3DjqynMu3VCF99FVbWoqOvI7NFZygCLcBGAsYHQ/s320/000cover.jpg",
+"encoder" : "XC2",
+"tag" : "series,013",
+"price" : "0",
+
+"post" : "
+<img src=\"https://1.bp.blogspot.com/-lhHas_eTjj4/X1uBBaM9aEI/AAAAAAAAg0Q/eS9SNmZKVp8fBi0E-j6rClL5Z0gkvcq3QCLcBGAsYHQ/s5000/1568707412003-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-HdO0cLtpQ1A/X1uBBcuvm3I/AAAAAAAAg0M/cHpi_lzAfhQcUhEQEj5p9nGF3cuNrSdZgCLcBGAsYHQ/s5000/1568707412004-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-_ZCm8HpXzMQ/X1uBClUBFFI/AAAAAAAAg0Y/AuQIDR-Bf-MyoYw-C3eEX5gwd-sVTZCHACLcBGAsYHQ/s5000/1568707412005-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-YhMkKy_lUxo/X1uBCrzi0pI/AAAAAAAAg0c/JXTXH5Wxu_UpwAqW8muxIukd3uDcplN9gCLcBGAsYHQ/s5000/1568707412006.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-oJ56oVGfKE0/X1uBDFVncfI/AAAAAAAAg0g/B98DM-cXjPE_UWCsIZpaN7yzTfB5Iu3lwCLcBGAsYHQ/s5000/1568707412007-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-y-2ZSKLY044/X1uBEjqYyEI/AAAAAAAAg0k/8BfFYQyT6Y8BZAU6mXaJN1r1SGf7yFC5gCLcBGAsYHQ/s5000/1568707412008.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-jMpdIhHI4n8/X1uBEwV_QTI/AAAAAAAAg0o/C2J-JciJKiUf8w01PrkiDIT7inmrqMN4gCLcBGAsYHQ/s5000/1568707412009-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-sOBaE6lSS5g/X1uBFLNsN6I/AAAAAAAAg0w/rxxvUKfDYDsS1PnLtYBY7xo-4hpk3G7KgCLcBGAsYHQ/s5000/1568707412010-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-Jy8v8reCJZA/X1uBFEB97gI/AAAAAAAAg00/3K3S-nXqPzMtN4BbCevyfwyGuorGnqk5ACLcBGAsYHQ/s5000/1568707412011-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-WyZaO2V2twc/X1uBFWJx1pI/AAAAAAAAg04/1GIrbjRNDhEqEraerfyG2cFcbAcxxk7eQCLcBGAsYHQ/s5000/1568707412012-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-M2jwOGOQZcw/X1uBGSG07vI/AAAAAAAAg08/ClgIrfbnSCov_LQFnbgVAEH1Xn0dFI9oQCLcBGAsYHQ/s5000/1568707412013-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-YKP5r5wfeJQ/X1uBGpR1skI/AAAAAAAAg1A/PDV3Yp4_tqg9eCFEqDiyWCpITIZv6FI3QCLcBGAsYHQ/s5000/1568707412014-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-gfsqMG3ty7Q/X1uBG3LNteI/AAAAAAAAg1E/rUcB_JNeEVY6cks_m8DRfLIp2bVn7YlcQCLcBGAsYHQ/s5000/1568707412015-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-KHfPr-6UP0s/X1uBHHAWIsI/AAAAAAAAg1I/6cl3G74fIuQcqUqBYDDQozQ3U053F2uPACLcBGAsYHQ/s5000/1568707412016.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-ex4e3Ev08y8/X1uBHMeQ_II/AAAAAAAAg1M/oCBKHbarRps6c7wK_8E2cwz2WatVE_C_QCLcBGAsYHQ/s5000/1568707412017-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-qBdp19ehPaw/X1uBHW-jtcI/AAAAAAAAg1Q/63Xl4LJnA-sufuYx69_R2acLBridTzzBACLcBGAsYHQ/s5000/1568707412018-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-E6RVNjO3hBc/X1uBHSt_1_I/AAAAAAAAg1U/-9RhvFveW90h0TWaEygFArBbSyFHVMnrQCLcBGAsYHQ/s5000/1568707412019.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-0Px-pRvh0Q4/X1uBHgElq2I/AAAAAAAAg1Y/h4DmB1fh3ncraXOzNnGWoykN_W0aZ-wcQCLcBGAsYHQ/s5000/1568707412020-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-ZW0L0CqD904/X1uBH4vHuwI/AAAAAAAAg1c/qbadaOI3yR8GurnFzp8oiwXxG8JSbqPFgCLcBGAsYHQ/s5000/1568707412021-picsay.jpg\"width=\"100%\"/>
+<img src=\"https://1.bp.blogspot.com/-FeOeb6f41Xk/X1uBIFXZmEI/AAAAAAAAg1g/UOyWzrJfbZooYguFusV7ncPk-QOzZ5PxQCLcBGAsYHQ/s5000/1568707412022-picsay.jpg\"width=\"100%\"/>
+"
+ }
+    ,
+{
+"title" : "My Kingdom",
+"status" : "အပိုင်း (၂၅)",
 "cover" : "https://1.bp.blogspot.com/-QQCasCObI7c/X1jDNqBWMlI/AAAAAAAAgFc/cg3VwuzB0MMHRm22BKBOCRjcClibMtmowCLcBGAsYHQ/s320/000cover.jpg",
 "encoder" : "XC2",
 "tag" : "series,013",
 "price" : "0",
 
 "post" : "
-         <img src=\"https://1.bp.blogspot.com/-IVyNekrCDQA/X1jDNoMXh4I/AAAAAAAAgFU/yYvzHcxXeTg0uC7TXeYAY0qi4a2tnhAlACLcBGAsYHQ/s5000/1568707400002-picsay.jpg\"width=\"100%\"/>
+ <img src=\"https://1.bp.blogspot.com/-IVyNekrCDQA/X1jDNoMXh4I/AAAAAAAAgFU/yYvzHcxXeTg0uC7TXeYAY0qi4a2tnhAlACLcBGAsYHQ/s5000/1568707400002-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-jN5Wjr0LJAY/X1jDNgAAQMI/AAAAAAAAgFY/KvTceva9RrgfCRt5xTNpkE747PD43dgsgCLcBGAsYHQ/s5000/1568707400003-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-f_FRnZ1sIp8/X1jDPWtgprI/AAAAAAAAgFk/4x6AeKoHdwcs53BCuDq70gzHTyyln9B5ACLcBGAsYHQ/s5000/1568707400004-picsay.jpg\"width=\"100%\"/>
 <img src=\"https://1.bp.blogspot.com/-HQpD0poQDfU/X1jDPB_-MPI/AAAAAAAAgFg/0H6FbxbN7jkP-3OuOo7RfhlcbB5tDKmhQCLcBGAsYHQ/s5000/1568707400005.jpg\"width=\"100%\"/>
@@ -39,7 +70,7 @@
     ,
      {
 "title" : "My Kingdom",
-"status" : "အပိုငါး (၂၄)",
+"status" : "အပိုင်း (၂၄)",
 "cover" : "https://1.bp.blogspot.com/-bcG-Utd-IVM/X1jC4UreohI/AAAAAAAAgDk/Q7_WzTJKyFcpGOMcNwmW_3IwD-C-5rpuACLcBGAsYHQ/s320/000cover.jpg",
 "encoder" : "XC2",
 "tag" : "series,013",
@@ -70,7 +101,7 @@
     ,
     {
 "title" : "My Kingdom",
-"status" : "အပိုငါး (၂၃)",
+"status" : "အပိုင်း (၂၃)",
 "cover" : "https://1.bp.blogspot.com/-6bBHt6BMXnM/X1d7YJBbGMI/AAAAAAAAfnY/wmqsJAb-JjUwTXzWE34izGF4uY3PJDf5wCLcBGAsYHQ/s320/000cover.jpg",
 "encoder" : "XC2",
 "tag" : "series,013",
@@ -109,7 +140,7 @@
     
      {
 "title" : "My Kingdom",
-"status" : "အပိုငါး (၂၂)",
+"status" : "အပိုင်း (၂၂)",
 "cover" : "https://1.bp.blogspot.com/-fdxY4_IYAd4/X1d7DVPzgwI/AAAAAAAAflw/vgeM5e2-0yIRbn45a-dtjaFIYPblWbUAQCLcBGAsYHQ/s320/000cover.jpg",
 "encoder" : "XC2",
 "tag" : "series,013",
@@ -143,7 +174,7 @@
     ,
     {
 "title" : "My Kingdom",
-"status" : "အပိုငါး (၂၁)",
+"status" : "အပိုင်း (၂၁)",
 "cover" : "https://1.bp.blogspot.com/-jxgBMNCQqlQ/X1N0N2o6vsI/AAAAAAAAebA/8y2cOWQLiTEf5JEeEIyACDRnB01VUnXqQCLcBGAsYHQ/s320/000cover.jpg",
 "encoder" : "XC2",
 "tag" : "series,013",
